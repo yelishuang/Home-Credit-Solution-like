@@ -1,0 +1,15 @@
+# 虚拟环境
+.venv/
+
+# 数据文件（体积大，不上传）
+data/
+
+# Jupyter 运行缓存
+.ipynb_checkpoints/
+__pycache__/
+
+# Claude Code
+CLAUDE.md
+
+# 系统文件
+.DS_Store
